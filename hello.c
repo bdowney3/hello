@@ -12,6 +12,8 @@
 
      printf("Brian Downey!\n");
      printf("Working to become a Civil Engineer!\n");
+     printf("Cathina Reeves!\n");
+     printf("Civil Engineering minoring in Environmental Engineering\n");
 
      return 0;
 
